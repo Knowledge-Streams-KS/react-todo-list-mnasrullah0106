@@ -1,0 +1,14 @@
+.container {
+    background-color: aqua;
+    border: 2px solid black;
+    margin-top: 10px;
+  }
+  .nonZeroHeading{
+    color: green;
+  }
+  .zeroHeading{
+    color: red;
+  }
+  .P_Style{
+    marginLeft: 10px
+  }
